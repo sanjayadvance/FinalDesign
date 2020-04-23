@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Final Design</string>
+    <string name="term_privacy">By Logging / SigningUp in, you agree to our Terms of Service and Privacy Policy</string>
+    <string name="login_with">Login / Admin Login</string>
+</resources>

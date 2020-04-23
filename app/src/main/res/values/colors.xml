@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+
+    <color name="colorPrimary">#39819c</color>
+    <color name="colorPrimaryDark">#306c83</color>
+    <color name="colorAccent">#39819c</color>
+    <color name="lightAccent">#05cfd8</color>
+    <color name="txt_color">#020607</color>
+    <!--background color of lifeline bg nd main page bottom bg colors-->
+    <color name="off_white">#f4f4f4</color>
+    <color name="dark_gray">#504F4F</color>
+    <color name="bg_color">#eee</color>
+</resources>
